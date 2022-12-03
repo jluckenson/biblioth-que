@@ -1,0 +1,3 @@
+ADMIN
+EMAIL:admin@gmail.com
+MDP: 1234
